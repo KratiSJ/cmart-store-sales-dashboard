@@ -26,7 +26,7 @@ This project presents a comprehensive sales analysis dashboard built using **Goo
 
 ## 📸 Dashboard Preview
 
-![Dashboard](Dashboard image.PNG )
+![Dashboard](https://github.com/KratiSJ/cmart-store-sales-dashboard/blob/main/Dashboard%20image.PNG )
 
 
 
