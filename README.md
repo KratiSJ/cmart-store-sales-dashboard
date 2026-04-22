@@ -30,7 +30,7 @@ The project helps businesses make data-driven decisions through visually appeali
 
 # 📷 Dashboard Preview
 
-![CMART Dashboard](Dashboard%20image(1).PNG)
+[![CMART Dashboard](Dashboard%20image(1).PNG)](https://github.com/KratiSJ/cmart-store-sales-dashboard/blob/main/Dashboard%20image.PNG)
 
 ---
 
